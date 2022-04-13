@@ -1,3 +1,3 @@
 # webtech-test
 
-editLinks
+editRechts
